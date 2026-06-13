@@ -1,3 +1,4 @@
+# About
 Project : ALTERA is a asymmetric survival game on sketch stage that will run on [Roblox](https://roblox.com).<br>
 
 
